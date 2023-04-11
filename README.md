@@ -1,8 +1,7 @@
 ### Hi there 👋
 I am currently studying computer science at Kırşehir Ahi Evran University.
 - 📫 How to reach me: `charydevel@gmail.com`
-<a href="https://www.linkedin.com/in/charynepesov/">
-  <img align="left" alt="Chary N.'s LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/charynepesov/"><img align="left" alt="Chary N.'s LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 
 - - -
 📈 my github stats
