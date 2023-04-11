@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am currently studying computer science at Kırşehir Ahi Evran University.
-- 📫 How to reach me: ```md charydevel@gmail.com```
+- 📫 How to reach me: 
+```md 
+charydevel@gmail.com
+```
 
 - - -
 - 📈 my github stats:
