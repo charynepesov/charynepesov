@@ -1,5 +1,8 @@
-### Hi there 👋
-I'm Chary from Turkey, and I study computer science. I really enjoy learning new technologies like Flutter, Go, WebAssembly and also GNU/Linux.
+### Hi there 👋, my name is Chary
+I study computer science. I really enjoy learning new technologies like Flutter, Go, WebAssembly and also GNU/Linux.copy/paste and use in your profile.
+
+Skills: Flutter / Go / C# / JS / HTML / CSS
+
 - 📫 How to reach me: 
 `charydevel@gmail.com`
 
@@ -19,4 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ...
 -->
+- 🔭 I’m currently working on this page. 
 - ⚡ Fun fact: Everything is opensource, if you can read an assembly. 
