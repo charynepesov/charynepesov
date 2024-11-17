@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Chary
-I study computer science. I really enjoy learning new technologies like Flutter, Go, WebAssembly and also GNU/Linux.copy/paste and use in your profile.
+I study computer science. I really enjoy learning new technologies like Java, Flutter and also GNU/Linux.
 
-Skills: Flutter / Linux / Go
+Skills: Java / SpringBoot / Git / Windows / Linux
 
-- 🌱 I’m currently learning Flutter/Dart 
-- 👯 I’m looking to collaborate on Building mobile apps with Flutter 
-- 💬 Ask me about Flutter, Linux 
+- 🌱 I’m currently learning internal things of OS with nasm.
+- 👯 I’m looking to collaborate on Building web apps.
+- 💬 Ask me about Java, Windows, Linux 
 - 📫 How to reach me: charydevel@gmail.com 
 - ⚡ Fun fact: Everything is opensource, if you can read an assembly. 
 
